@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1768127003 source:c:\users\hp\onedrive\documents\code c\eco_sensing\logique.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"logique.h"
+	"persistance.h"
+
+1768126243 c:\users\hp\onedrive\documents\code c\eco_sensing\logique.h
+	"structures.h"
+
+1768126243 c:\users\hp\onedrive\documents\code c\eco_sensing\structures.h
+
+1768126243 c:\users\hp\onedrive\documents\code c\eco_sensing\persistance.h
+	"structures.h"
+
+1768199972 source:c:\users\hp\onedrive\documents\code c\eco_sensing\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"structures.h"
+	"logique.h"
+	"persistance.h"
+
+1768126243 source:c:\users\hp\onedrive\documents\code c\eco_sensing\persistance.c
+	<stdio.h>
+	<stdlib.h>
+	"persistance.h"
+
+1768126243 source:c:\users\hp\onedrive\documents\code c\eco_sensing\structures.c
+	"structures.h"
+	<stdlib.h>
+
